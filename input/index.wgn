@@ -1,0 +1,10 @@
+title: Web hosting and email for small organisations
+----
+<!-- Main component for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <h1>Welcome</h1>
+        <p>Longis Hosting provides web hosting and email for small organisations, at a reasonable price.</p>
+        <p>
+          <a class="btn btn-lg btn-primary" href="/contact/" role="button">Sign up today &raquo;</a>
+        </p>
+      </div>
