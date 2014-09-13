@@ -10,7 +10,7 @@
     <link rel="icon" href="/favicon.ico">
 
     <!-- tmpl_if name='title' -->
-      <title><!-- tmpl_var name='title' escape='html' --> - Longis Hosting</title>
+      <title><!-- tmpl_var name='title' escape='html' --> - Geek Walks</title>
     <!-- tmpl_else -->
       <title>Untitled Page</title>
     <!-- /tmpl_if -->
@@ -46,13 +46,10 @@
           </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-              <li><a href="/about/">About</a></li>
-              <li><a href="/clients/">Clients</a></li>
-              <li><a href="/contact/">Contact</a></li>
-              <li><a href="/domain-names/">Domain Names</a></li>
-              <li><a href="/email/">Email</a></li>
-              <li><a href="/support/">Support</a></li>
-              <li><a href="/websites/">Websites</a></li>
+              <li><a href="/about.html">About</a></li>
+              <li><a href="/contact.html">Contact</a></li>
+              <li><a href="/lists.html">Mailing Lists</a></li>
+              <li><a href="/past-walks.html">Past Walks</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
@@ -61,7 +58,7 @@
       <!-- tmpl_var name='content' -->
 
       <div class="footer">
-        <p>Longis Hosting is a trading name of <a href="http://www.pwaring.com/">Paul Waring</a>.</p>
+        <p>Geek Walks are run by <a href="http://www.pwaring.com/">Paul Waring</a>.</p>
       </div>
 
     </div> <!-- /container -->

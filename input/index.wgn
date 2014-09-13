@@ -1,10 +1,32 @@
-title: Web hosting and email for small organisations
+title: Monthly walks for geeks
 ----
 <!-- Main component for a primary marketing message or call to action -->
       <div class="jumbotron">
-        <h1>Welcome</h1>
-        <p>Longis Hosting provides web hosting and email for small organisations, at a reasonable price.</p>
+        <h1>Upcoming events</h1>
+        <p>Geek Walks take place approximately once a month on a Saturday, and involve travelling to somewhere within an hour's direct train from Manchester, going for a stroll and ending up in a pub for lunch. Everyone is welcome and you don't have to book, but if you are coming Paul would appreciate an <a href="mailto:paul@xk7.net">email</a>, <a href="https://twitter.com/pwaring">tweet</a> or text, so we know to wait for you.</p>
+        
+        <div class="table-responsive">
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Walk Location</th>
+                <th>Meeting Place</th>
+                <th>Meeting Time</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Saturday 20th September</td>
+                <td>New Mills</td>
+                <td>Manchester Piccadilly (Platform 1)</td>
+                <td>10:30</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+          
         <p>
-          <a class="btn btn-lg btn-primary" href="/contact/" role="button">Sign up today &raquo;</a>
+          <a class="btn btn-lg btn-primary" href="/contact/" role="button">Subscribe to the mailing list &raquo;</a>
         </p>
       </div>
