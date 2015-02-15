@@ -4,7 +4,7 @@ title: Monthly walks for geeks
       <div class="jumbotron">
         <h1>Upcoming events</h1>
         <p>Geek Walks take place approximately once a month on a Saturday, and involve travelling to somewhere within an hour's direct train from Manchester, going for a stroll and ending up in a pub for lunch. Everyone is welcome and you don't have to book, but if you are coming Paul would appreciate an <a href="mailto:paul@xk7.net">email</a>, <a href="https://twitter.com/pwaring">tweet</a> or text, so we know to wait for you.</p>
-        
+
         <div class="table-responsive">
           <table class="table">
             <thead>
@@ -25,8 +25,8 @@ title: Monthly walks for geeks
             </tbody>
           </table>
         </div>
-          
+
         <p>
-          <a class="btn btn-lg btn-primary" href="http://lists.xk7.net/listinfo/geek-walks" role="button">Subscribe to the mailing list &raquo;</a>
+          <a class="btn btn-lg btn-primary" href="http://lists.xk7.net/listinfo/geek-walks" role="button">Join the mailing list &raquo;</a>
         </p>
       </div>
