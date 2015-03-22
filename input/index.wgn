@@ -13,6 +13,7 @@ title: Monthly walks for geeks
                 <th>Walk Location</th>
                 <th>Meeting Place</th>
                 <th>Meeting Time</th>
+                <th>&nbsp;</th>
               </tr>
             </thead>
             <tbody>
@@ -21,12 +22,21 @@ title: Monthly walks for geeks
                 <td>Buxton</td>
                 <td>Manchester Piccadilly</td>
                 <td>10:30</td>
+                <td><a href="http://lists.xk7.net/pipermail/geek-walks/2015-February/000089.html">Full details</a></td>
+              </tr>
+              <tr>
+                <td>Saturday 25th April</td>
+                <td>Parbold</td>
+                <td>Manchester Victoria</td>
+                <td>10:30</td>
+                <td><a href="http://lists.xk7.net/pipermail/geek-walks/2015-March/000094.html">Full details</a></td>
               </tr>
               <tr>
                 <td>Saturday 23rd May</td>
-                <td><a href="http://lists.xk7.net/pipermail/bletchley-park/2015-March/000010.html">Bletchley Park</a></td>
+                <td>Bletchley Park</td>
                 <td>Manchester Piccadilly</td>
                 <td>09:00</td>
+                <td><a href="http://lists.xk7.net/pipermail/bletchley-park/2015-March/000010.html">Full details</a></td>
               </tr>
             </tbody>
           </table>
