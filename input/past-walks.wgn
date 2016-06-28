@@ -3,7 +3,7 @@ title: Past Walks
 <h1>Past Walks</h1>
 
 <div class="table-responsive">
-  <table class="table">
+  <table class="table table-striped">
     <thead>
       <tr>
         <th>Date</th>
@@ -154,6 +154,14 @@ title: Past Walks
       <tr>
         <td>Saturday 13th February 2016</td>
         <td>Stockport Hat Museum</td>
+      </tr>
+      <tr>
+        <td>Saturday 23rd April 2016</td>
+        <td>Parbold</td>
+      </tr>
+      <tr>
+        <td>Saturday 28th May 2016</td>
+        <td>Entwistle</td>
       </tr>
     </tbody>
   </table>
