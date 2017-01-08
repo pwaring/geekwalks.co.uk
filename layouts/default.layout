@@ -15,15 +15,15 @@
     <!-- /tmpl_if -->
 
     <!-- Bootstrap core CSS -->
-    <link href="http://cdn.pwaring.com/css/flatly/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.pwaring.com/css/flatly/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="http://cdn.pwaring.com/css/navbar.css" rel="stylesheet">
+    <link href="https://cdn.pwaring.com/css/navbar.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-      <script src="http://cdn.pwaring.com/js/html5shiv.min.js"></script>
-      <script src="http://cdn.pwaring.com/js/respond.min.js"></script>
+      <script src="https://cdn.pwaring.com/js/html5shiv.min.js"></script>
+      <script src="https://cdn.pwaring.com/js/respond.min.js"></script>
     <![endif]-->
   </head>
 
@@ -66,9 +66,9 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="http://cdn.pwaring.com/js/jquery-1.11.1.min.js"></script>
-    <script src="http://cdn.pwaring.com/js/bootstrap.min.js"></script>
+    <script src="https://cdn.pwaring.com/js/jquery-1.11.1.min.js"></script>
+    <script src="https://cdn.pwaring.com/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="http://cdn.pwaring.com/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="https://cdn.pwaring.com/js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
